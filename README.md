@@ -1,6 +1,6 @@
 # Open source practice
 
-[![](https://github.com/bomolinelli/lab1repo/workflows/tests/badge.svg0)](https://github.com/bomolinelli/lab1repo/actions?query=workflow%3Atests)
+[![](https://github.com/bomolinelli/lab1repo/workflows/tests/badge.svg)](https://github.com/bomolinelli/lab1repo/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
